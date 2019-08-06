@@ -1,0 +1,14 @@
+2/2, Home, Alls-Chattanooga, Brawls-BlueWhite
+3/3, Away, Brawls-Cornfed, Brawls-BleedingHeartland, Brawls-RoyalCity
+3/9, Home, Alls-BlackRose, Brawls-BlackRose
+3/23, Away, Alls-TragicCity
+4/6, Away, Alls-PennJersey
+4/7, Away, Alls-Downriver, Alls-ForestCity
+5/18, Away, Alls-ArchRival, Brawls-ArchRival
+6/15, Away, Alls-BERG
+6/16, Away, Alls-RedStick
+7/13, Home, Alls-Fayetteville, Brawls-WindyCity
+8/17, Home, Alls-ArchRival , Brawls-ArchRival
+8/31, Away, Alls-Chattanooga, Brawls-Chattanooga
+
+
