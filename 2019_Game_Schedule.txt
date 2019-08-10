@@ -1,4 +1,4 @@
-2/2, Home, Alls-Chattanooga, Brawls-BlueWhite
+2/2, Home, Alls-Chattanooga (CRD), Brawls-BlueWhite
 3/3, Away, Brawls-Cornfed, Brawls-BleedingHeartland, Brawls-RoyalCity
 3/9, Home, Alls-BlackRose, Brawls-BlackRose
 3/23, Away, Alls-TragicCity
@@ -12,3 +12,7 @@
 8/31, Away, Alls-Chattanooga, Brawls-Chattanooga
 
 
+VTAR Jammer avg +- =
+1.  take the jammer +- and divide that by number of jams
+2.  that gives the avg. jammer +-
+3.  take the avg jammer +- and subtract the sum of all the avg jammer +-
